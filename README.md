@@ -13,6 +13,15 @@ I'm a passionate and experienced web developer and UI/UX designer. I have a stro
 - [Winner of a Logo Competition](#winner-of-a-logo-competition)
 
 ## UI/UX Designer and Web Developer
+
+# Work Experience
+
+**Manidash | June 2023 - Present**
+*Currently in Developement*
+[Link to the website](https://manidash.com)
+
+A web app that holds collection of high-quality dashboard templates designed to transform your data into impactful visualizations.
+
 **Datalab | April 2022 - August 2023**
 [Link to the website](https://datalabanalyticshub.com)
 
